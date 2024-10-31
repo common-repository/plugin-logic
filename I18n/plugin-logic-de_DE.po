@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugin Logic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-05 15:19+0200\n"
+"PO-Revision-Date: 2024-07-05 15:22+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: plugin-logic-fields.php:190
+msgid "Activated Plugins"
+msgstr "Aktive Plugins"
+
+#: plugin-logic-fields.php:192
+msgid "Behavior on Dashbord"
+msgstr "Verhalten im Dashboard"
+
+#: plugin-logic-fields.php:194
+msgid "Active / Inactive"
+msgstr "Aktiv / Inaktiv"
+
+#: plugin-logic-fields.php:195
+msgid "Urls or occurring Words"
+msgstr "Urls oder darin vorkommende Wörter"
+
+#: plugin-logic-fields.php:233
+msgid "Always on"
+msgstr "Immer an"
+
+#: plugin-logic-fields.php:237
+msgid "Active on:"
+msgstr "Aktiv auf:"
+
+#: plugin-logic-fields.php:238
+msgid "Inactive on:"
+msgstr "Inaktiv auf:"
+
+# use default
+#: plugin-logic.php:91
+msgid "Settings"
+msgstr ""
+
+# use default
+#: plugin-logic.php:141 plugin-logic.php:419 plugin-logic.php:1023
+#: plugin-logic.php:1068 plugin-logic.php:1103
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: plugin-logic.php:148
+msgid "Wrong user Input!"
+msgstr "Falsche Benutzereingabe!"
+
+#: plugin-logic.php:623
+#, php-format
+msgid ""
+"Cannot save the data, illegal character in Textarea %1$s for Plugin \"%2$s\"."
+msgstr ""
+"Die Daten können nicht gespeichert werden, da sich ein ungültiges Zeichen im "
+"Textfeld %1$s von Plugin \"%2$s\" befindet."
+
+#: plugin-logic.php:648
+#, php-format
+msgid ""
+"Cannot save the data, error in regex rule %1$s in textarea %2$s for Plugin "
+"\"%3$s\"."
+msgstr ""
+"Die Daten können nicht gespeichert werden, da sich die ungültige Regex-Regel "
+"%1$s im Textfeld %2$s von Plugin \"%3$s\" befindet."
+
+#: plugin-logic.php:1077
+msgid "Cannot initialize filesystem"
+msgstr "Das Wordpress-Dateisystem kann nicht initialisiert werden"
+
+#~ msgid "There are no active Plugins or inactive Plugins with Rules."
+#~ msgstr ""
+#~ "Es sind keine aktiven Plugins oder inaktive Plugins mit Regeln vorhanden."
+
+#~ msgid "Show Options for Behavoir on Dashboard"
+#~ msgstr "Optionen für Verhalten im Dashboard anzeigen"
